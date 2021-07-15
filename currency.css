@@ -1,0 +1,24 @@
+body {
+    background-color: aquamarine;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.block {
+    background-color: bisque;
+    height: 500px;
+    width: 600px;
+    text-align: center;
+    color: brown;
+
+}
+
+form div {
+    margin: 20px;
+}
+
+form div input {
+    width: 250px;
+    height: 20px;
+}
